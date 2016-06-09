@@ -3,7 +3,7 @@
 _pkgname=rtl8812au_rtl8821au
 pkgname=rtl8812au_rtl8821au-dkms-git
 _pkgver=4.3.22_beta
-pkgver=4.3.22_beta.r9.928e27f
+pkgver=4.3.22_beta.r10.0658130
 pkgrel=1
 pkgdesc="Kernel module for RTL8812AU, RTL8821AU, RTL8811AU based on v4.3.14 driver from Realtek"
 arch=('armv7h' 'i686' 'x86_64')
